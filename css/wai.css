@@ -1,0 +1,60 @@
+body {
+	margin:0;
+	background-color: #68cdd5;
+	font: normal 100% "宋体，arial, helvetica, sans-serif";
+}
+
+img {
+	width: 100%;
+	
+}
+
+p {
+	margin:0;
+}
+
+#a {
+	width:11%;
+	margin:2% 4%;
+	line-height: 0;
+}
+
+#b{
+	width: 40%;
+	margin:  7% auto;
+	padding:0;
+	line-height: 0;
+}
+
+#c {
+	width: 80%;
+	margin:auto;
+	padding: 0;
+	color:#ffffff;
+	line-height:2rem;
+	font-size:1.3rem;
+	letter-spacing:0.2rem;
+	font-family:宋体;
+}
+
+#d {
+	width:80%;
+	display:flex;
+	justify-content:space-between;
+	margin:15% auto;
+}
+
+#e,#f {
+	line-height:0;
+}
+
+
+
+
+
+
+
+
+
+
+
