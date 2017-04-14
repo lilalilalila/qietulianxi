@@ -21,7 +21,7 @@ p {
 
 #b{
 	width: 40%;
-	margin:  7% auto;
+	margin: 7% auto;
 	padding:0;
 	line-height: 0;
 }
@@ -32,7 +32,7 @@ p {
 	padding: 0;
 	color:#ffffff;
 	line-height:2rem;
-	font-size:1.3rem;
+	font-size:1.0rem;
 	letter-spacing:0.2rem;
 	font-family:宋体;
 }
@@ -41,7 +41,7 @@ p {
 	width:80%;
 	display:flex;
 	justify-content:space-between;
-	margin:15% auto;
+	margin:25% auto;
 }
 
 #e,#f {
